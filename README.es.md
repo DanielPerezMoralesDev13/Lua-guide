@@ -1,47 +1,48 @@
 <!-- Autor: Daniel Benjamin Perez Morales -->
 <!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
 <!-- Correo electrónico: danielperezdev@proton.me  -->
-# **Lua File Repository**
 
-*This repository contains files and basic programs written in Lua to help beginners get familiar with the language.*
+# ***Repositorio de ficheros en Lua***
 
-## **Lua Installation**
+*Este repositorio contiene ficheros y programas básicos escritos en Lua para ayudar a los principiantes a familiarizarse con el lenguaje.*
 
-### **On APT-based systems (Ubuntu, Debian, etc.)**
+## ***Instalación de Lua***
 
-1. *Open a terminal.*
-2. *Run the following command:*
+### ***En sistemas basados en APT (Ubuntu, Debian, etc.)***
+
+1. *Abre una terminal.*
+2. *Ejecuta el siguiente comando:*
 
    ```bash
    sudo apt update
    sudo apt install lua5.3
    ```
 
-### **On Arch Linux**
+### ***En Arch Linux***
 
-1. *Open a terminal.*
-2. *Run the following command:*
+1. *Abre una terminal.*
+2. *Ejecuta el siguiente comando:*
 
    ```bash
    sudo pacman -Sy lua
    ```
 
-## **Running Lua Programs**
+## ***Ejecución de programas Lua***
 
-*Once you have installed Lua, you can run the programs included in this repository using the Lua interpreter.*
+*Una vez que has instalado Lua, puedes ejecutar los programas incluidos en este repositorio utilizando el intérprete de Lua.*
 
-*For each file, if you have a file named `file.lua`, you can execute it as follows:*
+*Por fichero, si tienes un archivo llamado `fichero.lua`, puedes ejecutarlo de la siguiente manera:*
 
 ```bash
-lua file.lua
+lua fichero.lua
 ```
 
-## **Repository Contents**
+## ***Contenido del Repositorio***
 
-- *`file1.lua`: A simple program that prints "Hello, world!" to the console.*
+- *`fichero1.lua`: Un programa simple que imprime "¡Hola, mundo!" en la consola.*
 
-- *`file2.lua`: A program that demonstrates how to declare variables and perform basic operations in Lua.*
+- *`fichero2.lua`: Un programa que muestra cómo declarar variables y realizar operaciones básicas en Lua.*
 
-- *`file3.lua`: A file containing loops and control structures in Lua.*
+- *`fichero3.lua`: Un fichero de bucles y estructuras de control en Lua.*
 
-*If you have any questions or suggestions, feel free to open an issue or send a pull request. Enjoy learning Lua!*
+*Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue o enviar un pull request. ¡Disfruta aprendiendo Lua!*
