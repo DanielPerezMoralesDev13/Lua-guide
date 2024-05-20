@@ -38,11 +38,11 @@ lua file.lua
 
 ## **Repository Contents**
 
-- *`file1.lua`: A simple program that prints "Hello, world!" to the console.*
+- *`01 salida.lua`: A simple program that prints "Hello, world!" to the console.*
 
-- *`file2.lua`: A program that demonstrates how to declare variables and perform basic operations in Lua.*
+- *`02 tipos datos.lua`: A program that demonstrates how to declare variables and perform basic operations in Lua.*
 
-- *`file3.lua`: A file containing loops and control structures in Lua.*
+- *`05 if.lua`: A file containing loops and control structures in Lua.*
 
 *If you have any questions or suggestions, feel free to open an issue or send a pull request. Enjoy learning Lua!*
 
