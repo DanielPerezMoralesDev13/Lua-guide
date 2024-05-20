@@ -45,3 +45,11 @@ lua file.lua
 - *`file3.lua`: A file containing loops and control structures in Lua.*
 
 *If you have any questions or suggestions, feel free to open an issue or send a pull request. Enjoy learning Lua!*
+
+## **Contributions**
+
+> Contributions are welcome! If you have suggestions, corrections, or wish to add additional content to this project, feel free to open an issue or submit a pull request. Your help is essential in making this project a comprehensive and up-to-date reference for the development community.
+
+## **License**
+
+> This repository is published under the MIT License. Feel free to use, modify, and distribute the content according to the terms of this license.
